@@ -1,0 +1,270 @@
+* {
+  margin: 0;
+  font-family: "Tahoma";
+}
+
+#heading {
+  color: #f3f3f3;
+  background-color: #4a4949;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.links {
+  margin: 20px;
+  font-size: 18px;
+  font-weight: 500;
+  list-style-type: none;
+}
+
+#cardboard {
+  font-size: 28px;
+  font-family: "Sans serif";
+  margin-top: 13px;
+  margin-left: -10px;
+}
+
+.logo {
+  height: 25px;
+}
+
+.logo-cont {
+  margin: 5px;
+}
+
+#google-vr {
+  color: #fff;
+  margin: 40px;
+  margin-right: 70px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+#nav-link {
+  display: flex;
+  margin: 20px;
+}
+
+.container {
+  margin-top: 100px;
+  height: 650px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-image: url(images.html/cardboard-mobile-background.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+}
+
+.GC {
+  margin-left: 50px;
+  margin-top: -250px;
+  font-family: serif;
+}
+
+.google {
+  font-size: 50px;
+  line-height: 100px;
+  color: #494747;
+}
+
+.descripion {
+  font-size: 25px;
+  color: #626060;
+  padding-right: 900px;
+}
+
+.immersive {
+  background-color: rgb(232, 232, 232);
+  height: 120px;
+  font-size: 35px;
+  line-height: 120px;
+  padding-left: 45px;
+  color: #474545;
+}
+
+.get {
+  height: 550px;
+  background-color: rgb(253, 250, 250);
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  background-image: url(images.html/how-it-works.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.details {
+  margin-left: 800px;
+  margin-right: 50px;
+}
+
+.viewer {
+  font-size: 40px;
+  line-height: 80px;
+  color: #474545;
+}
+
+.cont {
+  font-size: 18px;
+  line-height: 25px;
+  color: #6c6a6a;
+}
+
+.find {
+  text-decoration: none;
+  line-height: 60px;
+  text-transform: uppercase;
+  color: purple;
+  font-weight: 300;
+}
+.find:hover {
+  text-decoration: underline;
+}
+
+.get-apps {
+  height: 500px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  background-image: url(images.html/got-cardboard.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.confirm {
+  margin-left: 45px;
+  line-height: 50px;
+}
+
+.got {
+  font-size: 40px;
+  text-transform: capitalize;
+  color: #474545;
+}
+
+.visit {
+  font-size: 18px;
+  color: #838080;
+}
+.apps {
+  color: rgb(9, 157, 162);
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: "Tahoma";
+}
+
+.join {
+  height: 400px;
+  background-color: rgb(249, 249, 249);
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  background-image: url(images.html/joi.jpeg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.invitation {
+  margin-left: 800px;
+  margin-right: 50px;
+}
+
+.fold {
+  font-size: 40px;
+  line-height: 80px;
+  color: #474545;
+}
+
+.start {
+  font-size: 18px;
+  line-height: 25px;
+  color: #6c6a6a;
+}
+
+.developing {
+  text-decoration: none;
+  line-height: 60px;
+  text-transform: uppercase;
+  color: rgb(9, 157, 162);
+  font-weight: 300;
+}
+.developing:hover {
+  text-decoration: underline;
+}
+
+.dark {
+  height: 300px;
+  background-color: #4a4949;
+}
+
+.source {
+  align-items: center;
+  margin-left: 200px;
+  padding-top: 50px;
+  color: #fff;
+  line-height: 50px;
+  margin-bottom: 200px;
+}
+
+.connected {
+  font-size: 20px;
+}
+
+.info {
+  font-size: 17px;
+}
+
+hr {
+  width: 500px;
+  color: white;
+}
+
+.light {
+  height: 100px;
+  background-color: rgb(232, 232, 232);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.google-links {
+  display: flex;
+  list-style-type: none;
+}
+
+.footer-links {
+  margin: 30px;
+  align-items: center;
+  color: #838080;
+  font-size: 15px;
+}
+
+.ggle {
+  font-family: "Tahoma";
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 18px;
+}
+
+.states {
+  border: 1px solid #b2afaf;
+  padding: 10px;
+  background-color: #ffffff;
+  color: #616161;
+  margin-right: 40px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.states:hover {
+  background-color: #838080;
+}
